@@ -52,7 +52,7 @@ Serato のライブラリ操作を外部アプリから行えるのか不明
 - 読み取り専用の補助と、書き込みを伴う操作を分けて考える必要
 - 外部アプリで扱う対象はSerato内部情報ではなく、音源ファイル側に寄せるほうが安全そう
 
-## 関連する課題
+## 関連する問題
 
 - [ディレクトリとクレートの設計思想がMixxxと異なる](./2026-05-08-serato-directory-playlist-crate-concept-gap.md)
 - [Seratoライブラリを他PCと共有しにくい](./2026-05-08-serato-library-sharing-between-pcs.md)

@@ -52,11 +52,13 @@ USBのディレクトリ、Spotifyプレイリスト、Seratoクレート、Mixx
 - USBの重複配置問題と強く関連
 - 分類の正をどこに置くか決める必要
 
-## 関連する課題
+## 関連する問題
 
 - [USB内で同じ曲が複数箇所に配置される](../../../../usb/problems/personal/library/2026-05-08-usb-duplicate-track-placement.md)
 - [USBディレクトリ管理が複雑化する](../../../../usb/problems/personal/library/2026-05-08-usb-directory-management-complexity.md)
 - [SpotifyプレイリストとSeratoクレートとMixxxプレイリストの対応付けが難しい](./2026-05-08-playlist-crate-list-mapping-friction.md)
+- [DJソフトごとに扱いやすいディレクトリ構造が異なる](../../../../usb/problems/personal/library/2026-05-08-usb-directory-structure-cross-tool-gap.md)
+- [ディレクトリとクレートの設計思想がMixxxと異なる](../../../../serato/problems/personal/library/2026-05-08-serato-directory-playlist-crate-concept-gap.md)
 
 ## ソース
 

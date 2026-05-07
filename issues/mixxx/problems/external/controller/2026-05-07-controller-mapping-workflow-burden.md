@@ -51,6 +51,12 @@
 - [Mixxx 公式 Wiki / Hardware Compatibility](https://github.com/mixxxdj/mixxx/wiki/Hardware-Compatibility)
 - [Mixxx 公式 Wiki / Contributing Mappings](https://github.com/mixxxdj/mixxx/wiki/Contributing-Mappings)
 
+## 関連する問題
+
+- [対応コントローラーが少ない](../../personal/controller/2026-05-07-controller-support.md)
+- [音を出すまでの道のりが長め](../../personal/setup/2026-05-07-first-sound-friction.md)
+- [オーディオ設定・レイテンシ・初期導入のつまずき](../setup/2026-05-07-audio-latency-initial-setup-friction.md)
+
 ## 関連リンク
 
 - https://github.com/mixxxdj/mixxx/wiki/Hardware-Compatibility

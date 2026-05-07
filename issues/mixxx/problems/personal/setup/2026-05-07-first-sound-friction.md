@@ -36,6 +36,12 @@ rekordbox などと比べると UI がやさしくなく、初心者が最初に
 - 最小限の登録情報で再生できる状態を作れるかの調査が必要
 - UI上の操作負荷とDB上の登録要件の切り分けが必要
 
+## 関連する問題
+
+- [オーディオ設定・レイテンシ・初期導入のつまずき](../../external/setup/2026-05-07-audio-latency-initial-setup-friction.md)
+- [対応コントローラーが少ない](../controller/2026-05-07-controller-support.md)
+- [コントローラーマッピング作成と検証の負荷](../../external/controller/2026-05-07-controller-mapping-workflow-burden.md)
+
 ## 関連リンク
 
 - なし

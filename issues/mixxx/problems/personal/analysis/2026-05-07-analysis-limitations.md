@@ -39,11 +39,13 @@
 - BPM、波形、ビートグリッド、Cue 情報の保存先と形式の確認が必要
 - 外部解析結果を反映する場合の更新対象と整合性条件の調査が必要
 
-## 関連する課題
+## 関連する問題
 
 - [ライブラリがローカルPCに依存](../library/2026-05-07-local-library-dependency.md)
 - [ライブラリ操作と検索性に課題](../library/2026-05-07-library-operation-friction.md)
 - [Spotify APIでは操作できるがDJソフト側の外部操作範囲が限られる](../../../../cross-tool/problems/personal/automation/2026-05-08-automation-scope-split-by-tool-api-limit.md)
+- [BPM・ビートグリッド解析結果の確認と修正負荷](../../external/analysis/2026-05-07-bpm-beatgrid-analysis-correction.md)
+- [ライブラリ再スキャン・解析待ち・未検出曲の管理負荷](../../external/library/2026-05-07-library-scan-analysis-workflow.md)
 
 ## 関連リンク
 

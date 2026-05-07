@@ -52,11 +52,14 @@
 - まず読み取りと棚卸し中心にすると安全
 - Spotify起点のワークフローとして設計しやすい可能性
 
-## 関連する課題
+## 関連する問題
 
 - [お気に入りの曲が一時受け皿として肥大化する](../../../../spotify/problems/personal/library/2026-05-08-spotify-liked-songs-as-intake-overload.md)
 - [USBとマスター音源フォルダの差分確認が難しい](../../../../usb/problems/personal/backup/2026-05-08-usb-master-library-diff.md)
 - [MixxxとSeratoとUSB間でライブラリ状態を共有しにくい](../library/2026-05-08-library-state-sharing-across-tools-and-pcs.md)
+- [SpotifyプレイリストとSeratoクレートとMixxxプレイリストの対応付けが難しい](../playlist/2026-05-08-playlist-crate-list-mapping-friction.md)
+- [ローカル音源とSpotify楽曲を同一曲として対応付けにくい](../metadata/2026-05-08-local-track-and-spotify-track-matching.md)
+- [曲数増加で全ツール横断の棚卸し対象が膨らむ](./2026-05-08-large-library-inventory-growth-across-tools.md)
 
 ## ソース
 

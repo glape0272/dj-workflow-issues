@@ -52,11 +52,14 @@
 - ISRCやアーティスト、曲名、アルバム名が照合に使える可能性
 - USB運用ではパス固定が重要
 
-## 関連する課題
+## 関連する問題
 
 - [USBとマスター音源フォルダの差分確認が難しい](../../../../usb/problems/personal/backup/2026-05-08-usb-master-library-diff.md)
 - [Spotifyのリスト依存でSerato上の曲探しが大変](../../../../spotify/problems/personal/serato/2026-05-08-serato-spotify-list-dependent-search-friction.md)
 - [ファイル名とタグ情報が一致しない](../../../../usb/problems/personal/format/2026-05-08-usb-filename-tag-mismatch.md)
+- [MixxxとSeratoとUSB間でライブラリ状態を共有しにくい](./2026-05-08-library-state-sharing-across-tools-and-pcs.md)
+- [ローカル音源とSpotify楽曲を同一曲として対応付けにくい](../metadata/2026-05-08-local-track-and-spotify-track-matching.md)
+- [ライブラリがローカルPCに依存](../../../../mixxx/problems/personal/library/2026-05-07-local-library-dependency.md)
 
 ## ソース
 

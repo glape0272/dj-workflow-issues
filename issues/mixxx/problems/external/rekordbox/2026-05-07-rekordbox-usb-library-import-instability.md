@@ -50,6 +50,13 @@ Rekordbox USB や Rekordbox プレイリストを Mixxx で扱う際に、空表
 - [Mixxx 公式 GitHub Issue #13624](https://github.com/mixxxdj/mixxx/issues/13624)
 - [Reddit / r/MIXXX の利用者投稿](https://www.reddit.com/r/MIXXX/comments/sxzrqh)
 
+## 関連する問題
+
+- [DJソフトごとに扱いやすいディレクトリ構造が異なる](../../../../usb/problems/personal/library/2026-05-08-usb-directory-structure-cross-tool-gap.md)
+- [USBディレクトリ管理が複雑化する](../../../../usb/problems/personal/library/2026-05-08-usb-directory-management-complexity.md)
+- [MixxxとSeratoとUSB間でライブラリ状態を共有しにくい](../../../../cross-tool/problems/personal/library/2026-05-08-library-state-sharing-across-tools-and-pcs.md)
+- [PC固有パスとUSBパスとストリーミング参照が混在する](../../../../cross-tool/problems/personal/library/2026-05-08-reference-paths-local-usb-streaming-mixed.md)
+
 ## 関連リンク
 
 - https://github.com/mixxxdj/mixxx/issues/13624

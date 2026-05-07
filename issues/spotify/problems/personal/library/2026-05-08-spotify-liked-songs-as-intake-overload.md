@@ -52,7 +52,7 @@
 - プレイリスト所属情報を使えば、未分類曲を抽出できる可能性
 - Spotify API で取得できる範囲の確認が必要
 
-## 関連する課題
+## 関連する問題
 
 - [お気に入りから用途別リストへ分ける作業が大変](../playlist/2026-05-08-spotify-playlist-classification-workload.md)
 - [Spotifyのリスト依存でSerato上の曲探しが大変](../serato/2026-05-08-serato-spotify-list-dependent-search-friction.md)

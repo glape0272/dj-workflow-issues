@@ -52,7 +52,7 @@
 - 1曲1分類ではなく複数リスト所属を前提にしたほうがよさそう
 - 外部アプリで候補生成と確認作業を分けると扱いやすい可能性
 
-## 関連する課題
+## 関連する問題
 
 - [お気に入りの曲が一時受け皿として肥大化する](../library/2026-05-08-spotify-liked-songs-as-intake-overload.md)
 - [Spotify公式ジャンルだけでは分類しにくい](../metadata/2026-05-08-spotify-genre-metadata-accuracy-limit.md)

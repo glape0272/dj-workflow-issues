@@ -52,11 +52,14 @@ Mixxx と Serato はそれぞれライブラリ状態の持ち方が異なり、
 - 音源配置、解析情報、分類情報を分けて整理する必要
 - 共有可能性は読み取り、変換、書き込みで分けて評価したい
 
-## 関連する課題
+## 関連する問題
 
 - [ライブラリがローカルPCに依存](../../../../mixxx/problems/personal/library/2026-05-07-local-library-dependency.md)
 - [Seratoライブラリを他PCと共有しにくい](../../../../serato/problems/personal/library/2026-05-08-serato-library-sharing-between-pcs.md)
 - [USBとマスター音源フォルダの差分確認が難しい](../../../../usb/problems/personal/backup/2026-05-08-usb-master-library-diff.md)
+- [PC固有パスとUSBパスとストリーミング参照が混在する](./2026-05-08-reference-paths-local-usb-streaming-mixed.md)
+- [Rekordbox USB・ライブラリ連携の不安定さ](../../../../mixxx/problems/external/rekordbox/2026-05-07-rekordbox-usb-library-import-instability.md)
+- [発見からDJソフト登録までの準備工程が分断される](../workflow/2026-05-08-discovery-to-dj-prep-workflow-fragmented.md)
 
 ## ソース
 

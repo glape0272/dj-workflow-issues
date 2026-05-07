@@ -51,7 +51,7 @@ Mixxx と Serato ではUSB内のディレクトリやライブラリ管理に対
 - ディレクトリ構造を正にするか、DJソフト側プレイリストを正にするかの判断が必要
 - 解析済み情報をどこまでUSB運用に含めるか検討が必要
 
-## 関連する課題
+## 関連する問題
 
 - [USBディレクトリ管理が複雑化する](./2026-05-08-usb-directory-management-complexity.md)
 - [USB内で同じ曲が複数箇所に配置される](./2026-05-08-usb-duplicate-track-placement.md)

@@ -51,7 +51,7 @@ Mixxx と Serato では、ディレクトリ、プレイリスト、クレート
 - 物理ディレクトリを整理単位にすると、DJソフト側の分類と二重化しやすい
 - USB側の問題とも関連
 
-## 関連する課題
+## 関連する問題
 
 - [Seratoライブラリを他PCと共有しにくい](./2026-05-08-serato-library-sharing-between-pcs.md)
 - [Seratoライブラリを外部アプリから操作しにくい](./2026-05-08-serato-library-external-app-operation-limit.md)

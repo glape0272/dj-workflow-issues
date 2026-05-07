@@ -55,7 +55,7 @@ Spotify のお気に入りの曲やプレイリスト周りを、外部アプリ
 - 自動変更よりも、候補提示と確認後反映のほうが安全
 - プレイリスト周りが外部アプリの主な対応範囲になりそう
 
-## 関連する課題
+## 関連する問題
 
 - [お気に入りの曲が一時受け皿として肥大化する](../library/2026-05-08-spotify-liked-songs-as-intake-overload.md)
 - [お気に入りから用途別リストへ分ける作業が大変](../playlist/2026-05-08-spotify-playlist-classification-workload.md)

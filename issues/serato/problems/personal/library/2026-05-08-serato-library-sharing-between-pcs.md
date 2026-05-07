@@ -52,7 +52,7 @@ Serato のライブラリ状態を他PCと共有できるのか不明
 - 外部ストレージ上のライブラリ情報とPCローカル側の情報の関係整理が必要
 - Mixxx のローカルライブラリ依存問題と比較できそう
 
-## 関連する課題
+## 関連する問題
 
 - [ディレクトリとクレートの設計思想がMixxxと異なる](./2026-05-08-serato-directory-playlist-crate-concept-gap.md)
 - [Seratoライブラリを外部アプリから操作しにくい](./2026-05-08-serato-library-external-app-operation-limit.md)

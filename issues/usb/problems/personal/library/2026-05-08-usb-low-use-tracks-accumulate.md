@@ -52,7 +52,7 @@
 - 低使用頻度曲を削除ではなく退避として扱うほうが安全
 - USB容量不足対策とも関連
 
-## 関連する課題
+## 関連する問題
 
 - [USBディレクトリ管理が複雑化する](./2026-05-08-usb-directory-management-complexity.md)
 - [USBとマスター音源フォルダの差分確認が難しい](../backup/2026-05-08-usb-master-library-diff.md)

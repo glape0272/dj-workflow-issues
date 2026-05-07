@@ -36,6 +36,12 @@ DB構造やインデックス、検索方法によって改善余地があるか
 - インデックス定義や検索に使われるカラムの確認が必要
 - 不要データや重複データの扱い確認が必要
 
+## 関連する問題
+
+- [ライブラリ操作と検索性に課題](./2026-05-07-library-operation-friction.md)
+- [ライブラリ再スキャン・解析待ち・未検出曲の管理負荷](../../external/library/2026-05-07-library-scan-analysis-workflow.md)
+- [曲数増加で全ツール横断の棚卸し対象が膨らむ](../../../../cross-tool/problems/personal/workflow/2026-05-08-large-library-inventory-growth-across-tools.md)
+
 ## 関連リンク
 
 - なし

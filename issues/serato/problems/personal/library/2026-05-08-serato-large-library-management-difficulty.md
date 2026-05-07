@@ -55,7 +55,7 @@
 - Serato 側で外部操作できる範囲が狭い場合、音源ファイルとタグの整理が主な対応範囲になりそう
 - クレート構造と物理ディレクトリ構造を同一視しすぎると管理が複雑化する
 
-## 関連する課題
+## 関連する問題
 
 - [ディレクトリとクレートの設計思想がMixxxと異なる](./2026-05-08-serato-directory-playlist-crate-concept-gap.md)
 - [Seratoライブラリを外部アプリから操作しにくい](./2026-05-08-serato-library-external-app-operation-limit.md)

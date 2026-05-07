@@ -52,7 +52,7 @@ Spotify は公式に楽曲やアーティストのジャンルを定義してい
 - DJ用リストではジャンルより用途や流れのほうが重要な場合がある
 - 既存リストから自分の分類傾向を推定できる可能性
 
-## 関連する課題
+## 関連する問題
 
 - [お気に入りから用途別リストへ分ける作業が大変](../playlist/2026-05-08-spotify-playlist-classification-workload.md)
 - [Spotify APIでプレイリスト操作を補助したい](../automation/2026-05-08-spotify-api-playlist-operation-support.md)

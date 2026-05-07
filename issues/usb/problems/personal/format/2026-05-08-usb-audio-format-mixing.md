@@ -52,7 +52,7 @@
 - フォーマット混在はUSB容量と検索性の両方に影響する
 - DJソフト側の表示や解析結果に差が出る可能性
 
-## 関連する課題
+## 関連する問題
 
 - [USBディレクトリ管理が複雑化する](../library/2026-05-08-usb-directory-management-complexity.md)
 - [ファイル名とタグ情報が一致しない](./2026-05-08-usb-filename-tag-mismatch.md)

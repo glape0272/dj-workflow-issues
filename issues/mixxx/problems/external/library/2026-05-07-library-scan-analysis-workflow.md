@@ -50,6 +50,13 @@
 - [Mixxx 公式 Wiki / Troubleshooting](https://github.com/mixxxdj/mixxx/wiki/troubleshooting)
 - [Mixxx 公式 GitHub Issues](https://github.com/mixxxdj/mixxx/issues)
 
+## 関連する問題
+
+- [ライブラリ操作と検索性に課題](../../personal/library/2026-05-07-library-operation-friction.md)
+- [動作が若干重い](../../personal/library/2026-05-07-library-performance.md)
+- [解析が長い・精度が若干低い・外部解析しにくい](../../personal/analysis/2026-05-07-analysis-limitations.md)
+- [曲数増加で全ツール横断の棚卸し対象が膨らむ](../../../../cross-tool/problems/personal/workflow/2026-05-08-large-library-inventory-growth-across-tools.md)
+
 ## 関連リンク
 
 - https://github.com/mixxxdj/mixxx/wiki/troubleshooting
