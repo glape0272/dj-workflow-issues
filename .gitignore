@@ -27,3 +27,6 @@ reports/
 # Agent workspace
 agents/
 .codex/
+AGENT.md
+AGENTS.md
+*.code-workspace
