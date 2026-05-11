@@ -26,6 +26,7 @@ reports/
 
 # Agent workspace
 agents/
+private/
 .codex/
 AGENT.md
 AGENTS.md
